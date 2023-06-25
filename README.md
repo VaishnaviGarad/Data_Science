@@ -1,2 +1,2 @@
-# Data_Science
-Here are my Data Science assignments
+# Hypothesis_Testing
+Here is the hypothesis testing assignments
